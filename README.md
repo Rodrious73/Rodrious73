@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrious73&label=Profile%20views&color=0e75b6&style=flat" alt="rodrious73" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrious73" alt="rodrious73" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,4 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrious73&show_icons=true&locale=en&layout=compact" alt="rodrious73" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrious73&show_icons=true&locale=en" alt="rodrious73" /></p>
-
