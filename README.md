@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Cadillo, un estudiante entusiasta de VII ciclo de Ingeniería Informática.</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Cadillo, un estudiante entusiasta de VIII ciclo de Ingeniería Informática.</h1>
 <h3 align="center">Mi pasión por la programación y el desarrollo de software me ha llevado a sumergirme en el apasionante mundo de la informática y las tecnologías de la información.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrious73&label=Profile%20views&color=0e75b6&style=flat" alt="rodrious73" /> </p>
