@@ -14,4 +14,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrious73&show_icons=true&locale=en&layout=compact" alt="rodrious73" /></p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rodrious73&theme=onedark&title=Commits,Repositories,Experience" alt="rodrious73" />
+  </a>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrious73&show_icons=true&locale=en" alt="rodrious73" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrious73&" alt="rodrious73" /></p>
