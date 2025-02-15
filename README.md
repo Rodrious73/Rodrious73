@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rodrious73&show_icons=true&locale=en" alt="rodrious73" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rodrious73&show_icons=true&theme=dark" alt="rodrious73" />
     </td>
   </tr>
 </table>
