@@ -17,7 +17,7 @@
 <h3 align="center">🚀 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,angular,bootstrap,css,django,figma,firebase,flask,git,html,java,js,linux,mongodb,mysql,nodejs,python,react,spring,sqlite,typescript" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,angular,bootstrap,tailwind,css,django,figma,firebase,flask,git,html,java,js,mysql,nodejs,python,react,spring,typescript" />
   </a>
 </p>
 
